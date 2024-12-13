@@ -1,0 +1,4 @@
+{"id": 1, "name": "John", "faculty": "IMIKN", "course": 4, "gpa": 6.43}
+{"id": 2, "name": "Bob", "faculty": "IMIKN", "course": 3, "gpa": 3.64}
+{"id": 3, "name": "Bob", "faculty": "ANOTHER", "course": 2, "gpa": 3.64}
+{"id": 4, "name": "REDACT", "faculty": "IMIKN", "course": 2, "gpa": 7.65}
